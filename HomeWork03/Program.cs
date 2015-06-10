@@ -10,16 +10,21 @@ namespace HomeWork03
     {
         private static void Main(string[] args)
         {
-            int grade = int.Parse(GetGrade());
-            //int grade = GetGrade();
+            //int grade = int.Parse(GetGrade());
+            int grade = GetGrade();
             PrintGrade(grade);
         }
 
-        public static string GetGrade()
+        //public static string GetGrade()
+        //{
+        //    Console.Write("Please Enter your Score: ");
+        //    return Console.ReadLine();
+        //}
+
+        public static int GetGrade()
         {
             Console.Write("Please Enter your Score: ");
-            return Console.ReadLine();
-            //int grade = int.Parse(Console.ReadLine());
+            return int.Parse(Console.ReadLine());
         }
 
         public static void PrintGrade(int grade)
