@@ -34,15 +34,38 @@ namespace HomeWork03
             else
             {
                 Console.Write("\nYour Score is ");
-                if (grade <= 100 && grade >= 90)
-                    Console.WriteLine("Grade-A");
-                else if (grade < 90 && grade >= 80)
-                    Console.WriteLine("Grade-B");
-                else if (grade < 80 && grade >= 70)
-                    Console.WriteLine("Grade-C");
-                else if (grade < 70 && grade >= 60)
-                    Console.WriteLine("Grade-D");
-                else Console.WriteLine("Grade-E");
+                //if (grade <= 100 && grade >= 90)
+                //    Console.WriteLine("Grade-A");
+                //else if (grade < 90 && grade >= 80)
+                //    Console.WriteLine("Grade-B");
+                //else if (grade < 80 && grade >= 70)
+                //    Console.WriteLine("Grade-C");
+                //else if (grade < 70 && grade >= 60)
+                //    Console.WriteLine("Grade-D");
+                //else Console.WriteLine("Grade-E");
+                switch (grade / 10)
+                {
+                    case 10:
+                    case 9:
+                        Console.WriteLine("Grade-A");
+                        break;
+
+                    case 8:
+                        Console.WriteLine("Grade-B");
+                        break;
+
+                    case 7:
+                        Console.WriteLine("Grade-C");
+                        break;
+
+                    case 6:
+                        Console.WriteLine("Grade-D");
+                        break;
+
+                    default:
+                        Console.WriteLine("Grade-E");
+                        break;
+                }
             }
         }
     }
