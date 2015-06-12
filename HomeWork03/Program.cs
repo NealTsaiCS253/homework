@@ -43,6 +43,8 @@ namespace HomeWork03
                 //else if (grade < 70 && grade >= 60)
                 //    Console.WriteLine("Grade-D");
                 //else Console.WriteLine("Grade-E");
+
+                //testc
                 switch (grade / 10)
                 {
                     case 10:
