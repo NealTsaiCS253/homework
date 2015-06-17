@@ -4,3 +4,9 @@ C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\[CS253] HomeWork\HomeWork
 C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\[CS253] HomeWork\HomeWork03\obj\Debug\HomeWork03.csprojResolveAssemblyReference.cache
 C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\[CS253] HomeWork\HomeWork03\obj\Debug\HomeWork03.exe
 C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\[CS253] HomeWork\HomeWork03\obj\Debug\HomeWork03.pdb
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork03\bin\Debug\HomeWork03.exe.config
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork03\obj\Debug\HomeWork03.exe
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork03\obj\Debug\HomeWork03.pdb
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork03\bin\Debug\HomeWork03.exe
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork03\bin\Debug\HomeWork03.pdb
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork03\obj\Debug\HomeWork03.csprojResolveAssemblyReference.cache

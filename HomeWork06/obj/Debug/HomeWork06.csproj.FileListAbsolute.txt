@@ -1,0 +1,5 @@
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork06\bin\Debug\HomeWork06.exe.config
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork06\bin\Debug\HomeWork06.exe
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork06\bin\Debug\HomeWork06.pdb
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork06\obj\Debug\HomeWork06.exe
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork06\obj\Debug\HomeWork06.pdb
