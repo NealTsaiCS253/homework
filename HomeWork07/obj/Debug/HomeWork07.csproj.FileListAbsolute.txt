@@ -1,0 +1,6 @@
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork07\bin\Debug\HomeWork07.exe.config
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork07\bin\Debug\HomeWork07.exe
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork07\bin\Debug\HomeWork07.pdb
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork07\obj\Debug\HomeWork07.csprojResolveAssemblyReference.cache
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork07\obj\Debug\HomeWork07.exe
+C:\Users\tgi0464\Documents\Visual Studio 2013\Projects\In Study\homework\HomeWork07\obj\Debug\HomeWork07.pdb
